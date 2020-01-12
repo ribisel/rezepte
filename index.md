@@ -6,4 +6,4 @@
 
 # party
 
-- [Eier-Schinken-Schnecken](/fingerfood/eier-schinken-schnecken)
+- [Eier-Schinken-Schnecken](./fingerfood/eier-schinken-schnecken)
