@@ -1,6 +1,6 @@
 # Eier-Schinken-Schnecken
 
-# Zutaten
+## Zutaten
 
 3 Eier
 
@@ -8,7 +8,7 @@ Schinken
 
 Philadelphi
 
-# Zubereitung
+## Zubereitung
 
 1. Eine Auflaufform mit Backpapier auslegen, die Eier in die Auflaufform füllen, und ca. 10 min bei 180 Grad ins Backrohr geben.
 1. Das Omelett mit Schinken und Käse belegen und einrollen
