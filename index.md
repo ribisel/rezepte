@@ -3,7 +3,7 @@
 <ul>
   {% for gericht in site.hauptgerichte %}
     <li>
-      <a href="{{ gericht.url }}">{{ "abc" }}</a>
+      <a href="{{ gericht.url }}">{{ gericht.content }}</a>
     </li>
   {% endfor %}
 </ul>
