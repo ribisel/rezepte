@@ -1,4 +1,5 @@
 collections:
   hauptgerichte:
     output: true
-    permalink: /hauptgerichte/:path/
+  books:
+    output: true
